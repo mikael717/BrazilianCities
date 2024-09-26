@@ -1,6 +1,6 @@
 # Cidades Brasileiras
 
-Este repositório contém um projeto sobre as cidades brasileiras com intuito de analisar quais dados estatisticos relevantes para nossa sociedade e trazer clareza sobre as possibilidades de desenvolvimento e oportunidades a serem exploradas.
+Este repositório contém um projeto sobre as cidades brasileiras com intuito de analisar dados estatisticos relevantes para nossa sociedade e trazer clareza sobre as possibilidades de desenvolvimento e oportunidades a serem exploradas no país.
 
 ## Funcionalidades
 - Análise demográfica
